@@ -38,7 +38,7 @@ Example of acceptable comment formatting:
 // └─────────────────┘
 
 // Bad: Using emoji 🚀
-// Bad: バグフィスク <- Non-English comments
+// Bad: バグフィクス <- Non-English comments
 ```
 
 ### Before Submitting
