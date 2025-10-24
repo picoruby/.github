@@ -53,6 +53,17 @@ Example of acceptable comment formatting:
 - Use the present tense ("Add feature" not "Added feature")
 - Reference issues and pull requests where appropriate
 
+### Pull Request Review Process
+
+Reviewers may convert your pull request to draft status if they determine it is not yet ready to be merged. Common reasons include:
+
+- The PR needs to be rebased with the master (main) branch
+- Additional changes or fixes are required
+- Tests are failing or missing
+- Documentation needs to be updated
+
+If your PR is converted to draft, please address the feedback and mark it as "Ready for review" when you have completed the necessary changes.
+
 ### Merge Policy
 
 We follow these guidelines when merging pull requests:
